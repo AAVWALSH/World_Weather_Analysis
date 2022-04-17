@@ -4,6 +4,8 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb_checkpoints
 Google_Nearby_Search.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
 
 #Byte-compiled
 __pycache__/
